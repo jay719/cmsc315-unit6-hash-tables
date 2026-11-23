@@ -34,6 +34,6 @@ I've worked with Python dictionaries before, but this assignment helped me bette
 2. What challenges did you encounter, and how did you overcome them?
 
 One thing I had to pay attention to was handling keys that didn't exist in the dictionary. Accessing a missing key directly would cause a KeyError, so I used get() and pop() with default values to avoid errors. Testing these cases helped me understand how to make dictionary operations more reliable.
-3. Explain how hash tables behave, what collisions are, and how hash tables can improve efficiency.
 
+3. Explain how hash tables behave, what collisions are, and how hash tables can improve efficiency.
 One thing I had to pay attention to was handling keys that didn't exist in the dictionary. Accessing a missing key directly would cause a KeyError, so I used get() and pop() with default values to avoid errors. Testing these cases helped me understand how to make dictionary operations more reliable.
